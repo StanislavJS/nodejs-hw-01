@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "57309cd1-8f68-42af-99f1-394b638afcbe",
+    "name": "Irving Harber",
+    "phone": "268.286.2883",
+    "email": "Riley86@yahoo.com",
+    "job": "Lead Mobility Executive"
+  },
+  {
+    "id": "681788ed-4543-480d-9dd6-89883b49f5b3",
+    "name": "Lewis Larson",
+    "phone": "692-894-1478 x78468",
+    "email": "Jarret_Mueller33@gmail.com",
+    "job": "District Metrics Developer"
+  },
+  {
+    "id": "3450fce0-15f9-490d-9cce-2f1782243d67",
+    "name": "Duane Morar",
+    "phone": "(203) 433-4502 x1187",
+    "email": "Emerald.Haley@yahoo.com",
+    "job": "Customer Integration Analyst"
+  },
+  {
+    "id": "a596c223-9ef6-4f8d-8a47-f3dcb5db61be",
+    "name": "Dr. Ross Greenfelder",
+    "phone": "458-750-2086 x5617",
+    "email": "Thurman26@hotmail.com",
+    "job": "Customer Security Planner"
+  },
+  {
+    "id": "462d3ae7-1472-4bda-91aa-67a32806288a",
+    "name": "Desiree D'Amore-VonRueden",
+    "phone": "870-601-5974 x7814",
+    "email": "Lavern_McDermott@yahoo.com",
+    "job": "Customer Identity Orchestrator"
+  }
+]
